@@ -73,8 +73,8 @@ Aplicamos:
 
 | Bits Host | Resultado | ¿Alcanza? |
 |------------|------------|------------|
-| 4 | 14 | ❌ |
-| 5 | 30 | ✅ |
+| 4 | 14 | No |
+| 5 | 30 | Si |
 
 Se necesitan:
 
